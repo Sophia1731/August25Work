@@ -1,5 +1,8 @@
 # August25Work
 
+Projects Included:
+1. XGBoost Classification (Cardiovascular Disease, Diabetes)
+
 XGBoost Classification Project Overview:
 
 This project provides a practical demonstration of using XGBoost classifiers to predict cardiovascular disease and diabetes. The project is implemented in a Jupyter Notebook, which contains all the necessary code for data loading, preprocessing, model training, and evaluation. 
