@@ -1,4 +1,4 @@
-# August25Work
+# Classification Projects
 
 Projects Included:
 1. XGBoost Classification (Cardiovascular Disease, Diabetes)
