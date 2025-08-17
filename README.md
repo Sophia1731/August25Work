@@ -1,7 +1,4 @@
-# Classification Projects
-
-Projects Included:
-1. XGBoost Classification (Cardiovascular Disease, Diabetes)
+# XGBoost Classification (Cardiovascular Disease, Diabetes)
 
 XGBoost Classification Project Overview:
 
